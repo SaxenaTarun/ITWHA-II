@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387777340450",
+    "firebase_url": "https://ha-ii-57ec0.firebaseio.com",
+    "project_id": "ha-ii-57ec0",
+    "storage_bucket": "ha-ii-57ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387777340450:android:3e7fef345501956bdad67b",
+        "android_client_info": {
+          "package_name": "com.example.hoasgn2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387777340450-h5sa1spfatvijrt5o7amvmrqc2rjeilp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOeE17BPDlPQHrfvglnd5hgaGv4ybo3PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387777340450-h5sa1spfatvijrt5o7amvmrqc2rjeilp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
